@@ -1,0 +1,14 @@
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\bin\Debug\net6.0\Praktis.exe
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\bin\Debug\net6.0\Praktis.deps.json
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\bin\Debug\net6.0\Praktis.runtimeconfig.json
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\bin\Debug\net6.0\Praktis.dll
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\bin\Debug\net6.0\Praktis.pdb
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.AssemblyInfoInputs.cache
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.AssemblyInfo.cs
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.csproj.CoreCompileInputs.cache
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.dll
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\refint\Praktis.dll
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.pdb
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\Praktis.genruntimeconfig.cache
+C:\Users\Mark Lape\source\repos\Praktis\Praktis\obj\Debug\net6.0\ref\Praktis.dll
